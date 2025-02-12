@@ -1,0 +1,11 @@
+pytest
+nbconvert
+ipykernel
+jupyter
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
